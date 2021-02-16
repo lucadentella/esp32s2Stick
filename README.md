@@ -8,6 +8,7 @@ Thanks to the presence of an USB OTG interface, it is possible to program the ch
 
 In addition to the basic circuit needed to run the WROVER module, esp32s2Stick offers an **RGB LED** and a socket for **MicroSD** cards.
 ## How to make
+- Blog post on [my website](http://www.lucadentella.it/en/2021/02/16/esp32s2stick/)
 - Eagle files (schematic and board) are available in the "**eagle**" subfolder
 - Some test *sketches* for Arduino are available in the "**arduino**" subfolder
 - PCB can be ordered [from PCBWay](https://www.pcbway.com/project/shareproject/esp32s2Stick.html)
